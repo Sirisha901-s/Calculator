@@ -28,7 +28,7 @@ JavaScript
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/Sirisha901-s/Calculator.git
 
 
 2. Open the folder and run the calculator.html file in any modern browser.
