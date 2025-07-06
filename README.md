@@ -41,8 +41,6 @@ git clone https://github.com/Sirisha901-s/Calculator.git
 
 📂 File Structure
 
-calculator/
-│
 ├── calculator.html       # Main HTML structure
 
 ├── style.css        # Styling of the calculator
@@ -56,5 +54,5 @@ calculator/
 
 
 🙋‍♂️ Author
-
+ developed by:
  @Sirisha901-s
