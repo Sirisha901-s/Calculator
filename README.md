@@ -44,9 +44,13 @@ git clone https://github.com/Sirisha901-s/Calculator.git
 calculator/
 │
 ├── calculator.html       # Main HTML structure
+
 ├── style.css        # Styling of the calculator
+
 ├── script.js        # Functionality using JavaScript
+
 └── README.md        # Project info
+
 
 
 
