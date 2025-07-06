@@ -33,7 +33,9 @@ git clone https://github.com/Sirisha901-s/Calculator.git
 
 2. Open the folder and run the calculator.html file in any modern browser.
 
+ Screenshot
 
+ ![Screenshot](screenshot31.png)
 
 📂 File Structure
 
