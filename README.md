@@ -35,7 +35,7 @@ git clone https://github.com/Sirisha901-s/Calculator.git
 
  📸 Screenshot
 
- ![Screenshot](screenshot(31).png)
+ ![Screenshot](Screenshot(31).png)
 
 📂 File Structure
 
